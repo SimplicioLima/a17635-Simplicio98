@@ -1,4 +1,4 @@
-# a17635-Simplicio98
+# a17635-SimplicioLima
 Diamond Miner -TDJ
 
 //Code
